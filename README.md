@@ -1,2 +1,2 @@
 # Assignments
-Ruby on rails applications
+Completed assignments for MIS 4397
